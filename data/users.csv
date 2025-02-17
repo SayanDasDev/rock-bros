@@ -1,0 +1,5 @@
+user_id,username,password,role,created_at
+1,admin,admin123,admin,2025-02-16 01:32:04
+2,student1,student,student,2025-02-16 01:36:23
+3,teacher1,teacher,teacher,2025-02-16 01:36:48
+4,student2,student,student,2025-02-17 00:11:53
